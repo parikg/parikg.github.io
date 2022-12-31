@@ -2,9 +2,10 @@
 ---
 ---
 
-**Brief Bio:** I am a machine learning researcher at [Apple](https://machinelearning.apple.com/) where I work on the foundations of machine learning. I aspire to do rigourous theoretical research that impacts practical problems. My current focus is on the interplay between multigroup fairness, loss minimization and indistinguishability. I am also interested in questions related to calibration, distribution drift and anomaly detection. 
 
-I have broad interests in theoretical comuter science, having worked on coding and information theory, pseudorandomness and computational complexity. On the applied side, I have worked on systems for storing and interactively visualizing large datasets and anomaly detection. 
+I am a machine learning researcher at [Apple](https://machinelearning.apple.com/) where I work on the foundations of machine learning. I aspire to do fundamental theoretical research that impacts practical problems. My current focus is on the interplay between multigroup fairness, loss minimization and indistinguishability. I am also interested in questions related to calibration, distribution drift and anomaly detection. 
+
+I have broad interests in theoretical comuter science, having worked on coding and information theory, pseudorandomness and computational complexity. On the applied side, I have worked on systems for storing and interactively visualizing large datasets. 
 
 In the past, I have been a researcher at [VMware Research](https://research.vmware.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/) in Redmond and Silicon Valley, a graduate student at [Georgia Tech](https://aco.gatech.edu/) and an undergraduate at [IIT Bombay](https://www.cse.iitb.ac.in/). See my [C.V.](http://parikg.github.io/cv.pdf) for more details.
 
