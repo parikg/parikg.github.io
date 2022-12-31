@@ -1,12 +1,9 @@
-## Parikshit Gopalan's homepage
-
-![Parikshit Gopalan](http://parikg.github.io/photo.jpeg)
-
+# Parikshit Gopalan's homepage
 ---
 
-**Brief Bio:** I am a machine learning researcher at [Apple](https://machinelearning.apple.com/) where I work on the foundations of machine learning. My current focus is on the interplay between multigroup fairness, loss minimization and indistinguishability. I am also interested in questions related to calibration, detecting and measuring distribution drift and anomaly detection. 
+**Brief Bio:** I am a machine learning researcher at [Apple](https://machinelearning.apple.com/) where I work on the foundations of machine learning. I aspire to do rigourous theoretical research that impacts practical problems. My current focus is on the interplay between multigroup fairness, loss minimization and indistinguishability. I am also interested in questions related to calibration, detecting and measuring distribution drift and anomaly detection. 
 
-I aspire to do rigourous theoretical work that impacts practical problems. I have broad interests in theoretical comuter science, having worked on coding and information theory, pseudorandomness and computational complexity. On the applied side, I have worked on systems for storing and interactively visualizing large datasets and anomaly detection. 
+I have broad interests in theoretical comuter science, having worked on coding and information theory, pseudorandomness and computational complexity. On the applied side, I have worked on systems for storing and interactively visualizing large datasets and anomaly detection. 
 
 In the past, I have been a researcher at [VMware Research](https://research.vmware.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/) in Redmond and Silicon Valley, a graduate student at [Georgia Tech](https://aco.gatech.edu/) and an undergraduate at [IIT Bombay](https://www.cse.iitb.ac.in/). See my [C.V.](http://parikg.github.io/cv.pdf) for more details.
 
@@ -16,7 +13,7 @@ For a full list of publications, see my [C.V.](http://parikg.github.io/cv.pdf), 
 
 --- 
 
-# Selected Research Projects and Publications
+## Selected Research Projects
 
 
 **Loss minimization, fairness and indistinguishability:**
@@ -56,16 +53,40 @@ Code is available from [GitHub](https://github.com/vmware/hillview).
 
 ---
 
-**Other selected publications**
+## Other Recent ML Publications
 
-- [Degree and sensitivity: tails of two distributions](https://arxiv.org/abs/1604.07432) with Rocco A. Servedio and Avi Wigderson.
-Appeared in CCC'16.
+- [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886) with Jaroslaw Blasiok, Parikshit Gopalan, Lunjia Hu, Preetum Nakkiran (under submission).
+- [KL divergence estimation with multigroup attribution](https://arxiv.org/abs/2202.13576) with Nina Narodytska, Omer Reingold, Vatsal Sharan, Udi Wieder (under submission).
+- [Multicalibrated Partitions for Importance Weights](https://arxiv.org/abs/2103.05853) with Omer Reingold, Vatsal Sharan, Udi Wieder (ALT'22).
+- [PIDForest:Anomaly Detection via Partial Identification](https://arxiv.org/abs/1912.03582) with Vatsal Sharan and Udi Wieder. (Neurips'18 spotlight).
+
+--- 
+
+## Other selected publications
+
+- [Degree and sensitivity: tails of two distributions](https://arxiv.org/abs/1604.07432) with Rocco A. Servedio and Avi Wigderson (CCC'16).
 - [Better pseduorandom generators from milder pseudorandom restrictions](https://arxiv.org/abs/1210.0049) with Raghu Meka, Omer Reingold, Salil Vadhan
-  and Luca Trevisan. Appeared in FOCS'12. 
+  and Luca Trevisan (FOCS'12). 
 - [Making the Long code shorter](https://arxiv.org/abs/1111.0405v1) with Boaz Barak, Johan Hastad, Raghu
-  Meka, Prasad Raghavendra and David Steurer. Appeared in FOCS'12.
-- [DNF Sparsification and a faster deterministic counting algorithm](https://arxiv.org/abs/1205.3534) with Raghu Meka and Omer Reingold. Appeared in CCC'12.
-- [Matching Vector Codes](https://oar.princeton.edu/bitstream/88435/pr1kv6j/1/MatchingVectorCodes.pdf) with Zeev Dvir and Sergey Yekhanin. Appeared in FOCS'10.
-- [Bounded independence fools halfspaces](https://arxiv.org/abs/0902.3757) with Ilias Diakonikolas, Ragesh Jaiswal, Rocco Servedio and Emanuele Viola. Appeared in FOCS'08.
-- [Finding duplicates in a data stream](https://dl.acm.org/doi/10.5555/1496770.1496815) with the one and only Jaikumar Radhakrishnan. Appeared in SODA'09.
+  Meka, Prasad Raghavendra and David Steurer (FOCS'12).
+- [DNF Sparsification and a faster deterministic counting algorithm](https://arxiv.org/abs/1205.3534) with Raghu Meka and Omer Reingold (CCC'12).
+- [Matching Vector Codes](https://oar.princeton.edu/bitstream/88435/pr1kv6j/1/MatchingVectorCodes.pdf) with Zeev Dvir and Sergey Yekhanin (FOCS'10).
+- [Finding duplicates in a data stream](https://dl.acm.org/doi/10.5555/1496770.1496815) with the one and only Jaikumar Radhakrishnan (SODA'09).
+- [Bounded independence fools halfspaces](https://arxiv.org/abs/0902.3757) with Ilias Diakonikolas, Ragesh Jaiswal, Rocco Servedio and Emanuele Viola (FOCS'08).
+- [List-Decoding Reed-Muller codes over small fields](https://www.cs.utexas.edu/~klivans/rm.pdf) with Adam R. Klivans and David Zuckerman (STOC'08).
+- [On agnostic learning of parities, monomials and halfspaces](https://cs.nyu.edu/~khot/papers/hs-parity-monomial_SIAM.pdf) with Vitaly Feldman, Subhash Khot and Ashok Ponnuswami (FOCS'06).  
 
+## Interns mentored: 
+
+I have been fortunate to work with several fabulous interns over the years:
+1. Yi Wu, Carnegie Mellon University, now at Google (2009).
+2. [Raghu Meka](https://hackmd.io/@raghum/index), University of Texas at Austin, now at UCLA. (2010, 2011).
+3. [Yuan Zhou](https://yuanz.web.illinois.edu/), Carnegie Mellon University, now at UIUC. (2012).
+4. Abhishek Bhowmick, University of Texas at Austin. (2013).
+5. [Li-Yang Tan](http://theory.stanford.edu/~liyang/), Columbia University, now at Stanford University. (2014).
+6. [Vatsal Sharan](), Stanford University, now at USC. (2017).
+7. [Michael P. Kim](https://cs.stanford.edu/~mpkim/), Stanford University, currently Miller fellow at UC Berkeley (2017).
+8. [Roie Levin](https://roielevin.com/), CMU, currently Fullbright postdoctoral fellow at Tel-Aviv Univeristy (2019).
+9. [Shivam Garg](https://cs.stanford.edu/people/shivamg/), Stanford (2021).\\
+10. Mihir Singhal, MIT (2021).\\
+11. [Lunjia Hu](https://sites.google.com/stanford.edu/lunjia), Stanford (2022).\\
