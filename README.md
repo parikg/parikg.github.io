@@ -1,6 +1,5 @@
 # Parikshit Gopalan's homepage
 ---
----
 
 
 I am a machine learning researcher at [Apple](https://machinelearning.apple.com/) where I work on the foundations of machine learning. I aspire to do fundamental theoretical research that impacts practical problems. My current focus is on the interplay between multigroup fairness, loss minimization and indistinguishability. I am also interested in questions related to calibration, distribution drift and anomaly detection. 
@@ -27,10 +26,10 @@ This project aims to reconcile three different perspectives on the goal of learn
 
 Some papers on this topic which explore connections and tradeoffs between these notions:
 - [Omnipredictors](https://arxiv.org/abs/2109.05389) with Adam Tauman Kalai, Omer Reingold, Vatsal Sharan and Udi Wieder, appeared at ITCS'22.
-- [Low-degree multicalibration](https://arxiv.org/abs/2203.01255) with Michael Kim, Mihir Singhal, Shengjia Zhao, appeared at COLT'22. 
-- [Loss minimization through the lens of outcome indistinguishability](https://arxiv.org/abs/2210.08649) with Lunjia Hu, Michael Kim, Omer Reingold and Udi Wieder, to appear at ITCS'23.
+- [Low-degree multicalibration](https://arxiv.org/abs/2203.01255) with Michael P. Kim, Mihir Singhal, Shengjia Zhao, appeared at COLT'22. 
+- [Loss minimization through the lens of outcome indistinguishability](https://arxiv.org/abs/2210.08649) with Lunjia Hu, Michael P. Kim, Omer Reingold and Udi Wieder, to appear at ITCS'23.
 
-Here is a talk I gave at the [IAS TCSDM seminar](https://youtu.be/fUO7Mdew8Fk) in April, and a shorter version from the [TOC4fairness seminar](https://youtu.be/fwwNfdLCsNs).
+Here is a talk I gave at the [IAS TCSDM seminar](https://youtu.be/fUO7Mdew8Fk) in April, and a shorter version from the [TOC4fairness seminar](https://youtu.be/fwwNfdLCsNs). Also, [this talk by Omer Reingold](https://toc4fairness.org/good-research-karma-the-unexpected-benefits-of-striving-for-algorithmic-fairness/) gives a good high-level introduction to the area. 
 
 ---
 
