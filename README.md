@@ -28,6 +28,7 @@ Some papers on this topic which explore connections and tradeoffs between these 
 - [Omnipredictors](https://arxiv.org/abs/2109.05389) with Adam Tauman Kalai, Omer Reingold, Vatsal Sharan and Udi Wieder, appeared at ITCS'22.
 - [Low-degree multicalibration](https://arxiv.org/abs/2203.01255) with Michael P. Kim, Mihir Singhal, Shengjia Zhao, appeared at COLT'22. 
 - [Loss minimization through the lens of outcome indistinguishability](https://arxiv.org/abs/2210.08649) with Lunjia Hu, Michael P. Kim, Omer Reingold and Udi Wieder, to appear at ITCS'23.
+- [Characterizing notions of omniprediction via multicalibration] with Michael P. Kim and Omer Reingold. Under submission, 2023.
 
 Here is a talk I gave at the [IAS TCSDM seminar](https://youtu.be/fUO7Mdew8Fk) in April, and a shorter version from the [TOC4fairness seminar](https://youtu.be/fwwNfdLCsNs). Also, [this talk by Omer Reingold](https://toc4fairness.org/good-research-karma-the-unexpected-benefits-of-striving-for-algorithmic-fairness/) gives a good high-level introduction to the area. 
 
@@ -58,7 +59,7 @@ Code is available from [GitHub](https://github.com/vmware/hillview).
 
 ## Other Recent ML Publications
 
-- [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886) with Jaroslaw Blasiok, Parikshit Gopalan, Lunjia Hu, Preetum Nakkiran (under submission).
+- [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886) with Jaroslaw Blasiok, Parikshit Gopalan, Lunjia Hu, Preetum Nakkiran (to appear in STOC'23).
 - [KL divergence estimation with multigroup attribution](https://arxiv.org/abs/2202.13576) with Nina Narodytska, Omer Reingold, Vatsal Sharan, Udi Wieder (under submission).
 - [Multicalibrated Partitions for Importance Weights](https://arxiv.org/abs/2103.05853) with Omer Reingold, Vatsal Sharan, Udi Wieder (ALT'22).
 - [PIDForest:Anomaly Detection via Partial Identification](https://arxiv.org/abs/1912.03582) with Vatsal Sharan and Udi Wieder. (Neurips'18 spotlight).
