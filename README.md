@@ -27,12 +27,12 @@ This project aims to reconcile three different perspectives on the goal of learn
 Some papers on this topic which explore connections and tradeoffs between these notions:
 - [Omnipredictors](https://arxiv.org/abs/2109.05389) with Adam Tauman Kalai, Omer Reingold, Vatsal Sharan and Udi Wieder, appeared at ITCS'22.
 - [Loss minimization through the lens of outcome indistinguishability](https://arxiv.org/abs/2210.08649) with Lunjia Hu, Michael P. Kim, Omer Reingold and Udi Wieder, appeared at ITCS'23.
-- [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886) with Jaroslaw Blasiok, Parikshit Gopalan, Lunjia Hu, Preetum Nakkiran (to appear in STOC'23).
+- [Characterizing notions of omniprediction via multicalibration](https://arxiv.org/abs/2302.06726) with Michael P. Kim and Omer Reingold. Under submission, 2023.
+
 
 On a related note, I am interested in efficient and robust notions of calibration, motivated by the fact that several commonly used measure for calibration fail to guarantee at least one of these. Some papers proposing better measures of calibration:
 - [Low-degre multicalibration](https://arxiv.org/abs/2203.01255) with Michael P. Kim, Mihir Singhal, Shengjia Zhao, appeared at COLT'22. 
-- [Characterizing notions of omniprediction via multicalibration](https://arxiv.org/abs/2302.06726) with Michael P. Kim and Omer Reingold. Under submission, 2023.
-
+- [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886) with Jaroslaw Blasiok, Parikshit Gopalan, Lunjia Hu, Preetum Nakkiran (to appear in STOC'23).
 Here is a talk I gave at the [IAS TCSDM seminar](https://youtu.be/fUO7Mdew8Fk) in April, and a shorter version from the [TOC4fairness seminar](https://youtu.be/fwwNfdLCsNs). Also, [this talk by Omer Reingold](https://toc4fairness.org/good-research-karma-the-unexpected-benefits-of-striving-for-algorithmic-fairness/) gives a good high-level introduction to the area. 
 
 
