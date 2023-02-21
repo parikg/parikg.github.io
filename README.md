@@ -30,9 +30,10 @@ Some papers on this topic which explore connections and tradeoffs between these 
 - [Characterizing notions of omniprediction via multicalibration](https://arxiv.org/abs/2302.06726) with Michael P. Kim and Omer Reingold. Under submission, 2023.
 
 
-On a related note, I am interested in efficient and robust notions of calibration, motivated by the fact that several commonly used measure for calibration fail to guarantee at least one of these. Some papers proposing better measures of calibration:
-- [Low-degre multicalibration](https://arxiv.org/abs/2203.01255) with Michael P. Kim, Mihir Singhal, Shengjia Zhao, appeared at COLT'22. 
+On a related note, I am interested in efficient and robust notions of calibration, motivated by the fact that most commonly used calibration measures fail to guarantee at least one of these. Some work proposing better measures of calibration:
+- [Low-degree multicalibration](https://arxiv.org/abs/2203.01255) with Michael P. Kim, Mihir Singhal, Shengjia Zhao, appeared at COLT'22. 
 - [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886) with Jaroslaw Blasiok, Parikshit Gopalan, Lunjia Hu, Preetum Nakkiran (to appear in STOC'23).
+
 Here is a talk I gave at the [IAS TCSDM seminar](https://youtu.be/fUO7Mdew8Fk) in April, and a shorter version from the [TOC4fairness seminar](https://youtu.be/fwwNfdLCsNs). Also, [this talk by Omer Reingold](https://toc4fairness.org/good-research-karma-the-unexpected-benefits-of-striving-for-algorithmic-fairness/) gives a good high-level introduction to the area. 
 
 
@@ -56,7 +57,7 @@ A two-part tutorial I gave on this topic from a bootcamp at the Simons institute
 [Hillview](https://research.vmware.com/projects/hillview) is an open-source tool for fast interactive visualization and exploration of massive data sets using just the click of a mouse. HillView combines a distributed, parallel computation platform with highly optimized sketching and sampling algorithms for fast renderings. Overlook](https://research.vmware.com/publications/overlook-differentially-private-exploratory-visualization-for-big-data) adds a differential privacy layer to Hillview. 
 - [Paper on Hillview](https://arxiv.org/abs/1907.04827) with Mihai Budiu, Lalith Suresh, Udi Wieder, Han Kruiger and Marcos Aguilera appeared at VLDB 2018.
 Code is available from [GitHub](https://github.com/vmware/hillview). 
-- [[Paper on Overlook](https://arxiv.org/abs/2006.12018) with Pratiksha Thaker, Mihai Budiu, Udi Wieder and Matei Zaharia, appeared in the Journal of Privacy and Confidentiality. 
+- [Paper on Overlook](https://arxiv.org/abs/2006.12018) with Pratiksha Thaker, Mihai Budiu, Udi Wieder and Matei Zaharia, appeared in the Journal of Privacy and Confidentiality. 
 
 ---
 ---
