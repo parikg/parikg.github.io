@@ -49,12 +49,12 @@ A two-part tutorial I gave on this topic from a bootcamp at the Simons institute
 
 ---
 
-**Interactive data visualization via Hillview**
+**Interactive data visualization**
 
-[Hillview](https://research.vmware.com/projects/hillview) is an open-source tool for fast interactive visualization and exploration of massive data sets using just the click of a mouse. HillView combines a distributed, parallel computation platform with highly optimized sketching and sampling algorithms for fast renderings. 
+[Hillview](https://research.vmware.com/projects/hillview) is an open-source tool for fast interactive visualization and exploration of massive data sets using just the click of a mouse. HillView combines a distributed, parallel computation platform with highly optimized sketching and sampling algorithms for fast renderings. Overlook](https://research.vmware.com/publications/overlook-differentially-private-exploratory-visualization-for-big-data) adds a differential privacy layer to Hillview. 
 - [Paper on Hillview](https://arxiv.org/abs/1907.04827) with Mihai Budiu, Lalith Suresh, Udi Wieder, Han Kruiger and Marcos Aguilera appeared at VLDB 2018.
 Code is available from [GitHub](https://github.com/vmware/hillview). 
-- [Overlook](https://research.vmware.com/publications/overlook-differentially-private-exploratory-visualization-for-big-data) adds a differential privacy layer to Hillview. [Paper on Overlook](https://arxiv.org/abs/2006.12018) with Pratiksha Thaker, Mihai Budiu, Udi Wieder and Matei Zaharia, appeared in the Journal of Privacy and Confidentiality. 
+- [[Paper on Overlook](https://arxiv.org/abs/2006.12018) with Pratiksha Thaker, Mihai Budiu, Udi Wieder and Matei Zaharia, appeared in the Journal of Privacy and Confidentiality. 
 
 ---
 ---
@@ -62,7 +62,7 @@ Code is available from [GitHub](https://github.com/vmware/hillview).
 
 ## Other Recent ML Publications
 
-- [KL divergence estimation with multigroup attribution](https://arxiv.org/abs/2202.13576) with Nina Narodytska, Omer Reingold, Vatsal Sharan, Udi Wieder (under submission).
+- [KL divergence estimation with multigroup attribution](https://arxiv.org/abs/2202.13576) with Nina Narodytska, Omer Reingold, Vatsal Sharan, Udi Wieder (under submission, 2023).
 - [Multicalibrated Partitions for Importance Weights](https://arxiv.org/abs/2103.05853) with Omer Reingold, Vatsal Sharan, Udi Wieder (ALT'22).
 - [PIDForest:Anomaly Detection via Partial Identification](https://arxiv.org/abs/1912.03582) with Vatsal Sharan and Udi Wieder. (Neurips'18 spotlight).
 
@@ -73,8 +73,7 @@ Code is available from [GitHub](https://github.com/vmware/hillview).
 - [Degree and sensitivity: tails of two distributions](https://arxiv.org/abs/1604.07432) with Rocco A. Servedio and Avi Wigderson (CCC'16).
 - [Better pseduorandom generators from milder pseudorandom restrictions](https://arxiv.org/abs/1210.0049) with Raghu Meka, Omer Reingold, Salil Vadhan
   and Luca Trevisan (FOCS'12). 
-- [Making the Long code shorter](https://arxiv.org/abs/1111.0405v1) with Boaz Barak, Johan Hastad, Raghu
-  Meka, Prasad Raghavendra and David Steurer (FOCS'12).
+- [Making the Long code shorter](https://arxiv.org/abs/1111.0405v1) with Boaz Barak, Johan Hastad, Raghu Meka, Prasad Raghavendra and David Steurer (FOCS'12).
 - [DNF Sparsification and a faster deterministic counting algorithm](https://arxiv.org/abs/1205.3534) with Raghu Meka and Omer Reingold (CCC'12).
 - [Matching Vector Codes](https://oar.princeton.edu/bitstream/88435/pr1kv6j/1/MatchingVectorCodes.pdf) with Zeev Dvir and Sergey Yekhanin (FOCS'10).
 - [Finding duplicates in a data stream](https://dl.acm.org/doi/10.5555/1496770.1496815) with the one and only Jaikumar Radhakrishnan (SODA'09).
