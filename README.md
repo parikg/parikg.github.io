@@ -31,6 +31,9 @@ Some papers on this topic which explore connections and tradeoffs between these 
 
 This line of work is summarized in a talk  on [Multigroup fairness and loss minimization](https://www.youtube.com/live/9CnttO0rd0c?feature=share) that I gave at at the Simons workshop on [Multigroup fairness and the validity of statistical judgement](https://simons.berkeley.edu/workshops/multigroup-fairness-validity-statistical-judgment). 
 
+Here is a paper exploring how these notions relate for Deep Neural Nets:
+- [Loss minimization yields multicalibration for large neural networks](https://arxiv.org/abs/2304.09424) with Jaroslaw Blasiok, Parikshit Gopalan, Lunjia Hu, Adam Kalai, Preetum Nakkiran.
+
 On a related note, I am interested in efficient and robust notions of calibration, motivated by the fact that most commonly used calibration measures fail to guarantee at least one of these. Some work proposing better measures of calibration:
 - [Low-degree multicalibration](https://arxiv.org/abs/2203.01255) with Michael P. Kim, Mihir Singhal, Shengjia Zhao, appeared at COLT'22. 
 - [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886) with Jaroslaw Blasiok, Parikshit Gopalan, Lunjia Hu, Preetum Nakkiran (to appear in STOC'23).
