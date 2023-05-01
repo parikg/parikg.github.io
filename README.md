@@ -29,16 +29,15 @@ Some papers on this topic which explore connections and tradeoffs between these 
 - [Loss minimization through the lens of outcome indistinguishability](https://arxiv.org/abs/2210.08649) with Lunjia Hu, Michael P. Kim, Omer Reingold and Udi Wieder, appeared at ITCS'23.
 - [Characterizing notions of omniprediction via multicalibration](https://arxiv.org/abs/2302.06726) with Michael P. Kim and Omer Reingold. Under submission, 2023.
 
-This line of work is summarized in a talk  on [Multigroup fairness and loss minimization](https://www.youtube.com/live/9CnttO0rd0c?feature=share) that I gave at at the Simons workshop on [Multigroup fairness and the validity of statistical judgement](https://simons.berkeley.edu/workshops/multigroup-fairness-validity-statistical-judgment). 
+This line of work is summarized in a talk  on [Multigroup fairness and loss minimization](https://www.youtube.com/live/9CnttO0rd0c?feature=share) that I gave at at the Simons workshop on [Multigroup fairness and the validity of statistical judgement](https://simons.berkeley.edu/workshops/multigroup-fairness-validity-statistical-judgment) in Aprl'23. Here is a talk from the [IAS TCSDM seminar](https://youtu.be/fUO7Mdew8Fk) in April'22, and a shorter version from the [TOC4fairness seminar](https://youtu.be/fwwNfdLCsNs). 
 
-Here is a paper exploring how these notions relate for Deep Neural Nets, and a [talk by Adam Kalai](https://www.youtube.com/live/WJfIOfAZu9g?feature=share):
+
+A paper exploring how these notions relate for Deep Neural Nets, and a [talk by Adam Kalai](https://www.youtube.com/live/WJfIOfAZu9g?feature=share):
 - [Loss minimization yields multicalibration for large neural networks](https://arxiv.org/abs/2304.09424) with Jaroslaw Blasiok, Parikshit Gopalan, Lunjia Hu, Adam Kalai, Preetum Nakkiran.
 
 On a related note, I am interested in efficient and robust notions of calibration, motivated by the fact that most commonly used calibration measures fail to guarantee at least one of these. Some work proposing better measures of calibration:
 - [Low-degree multicalibration](https://arxiv.org/abs/2203.01255) with Michael P. Kim, Mihir Singhal, Shengjia Zhao, appeared at COLT'22. 
 - [A Unifying Theory of Distance from Calibration](https://arxiv.org/abs/2211.16886) with Jaroslaw Blasiok, Parikshit Gopalan, Lunjia Hu, Preetum Nakkiran (to appear in STOC'23).
-
-Here is a talk I gave at the [IAS TCSDM seminar](https://youtu.be/fUO7Mdew8Fk) in April, and a shorter version from the [TOC4fairness seminar](https://youtu.be/fwwNfdLCsNs). Also, [this talk by Omer Reingold](https://toc4fairness.org/good-research-karma-the-unexpected-benefits-of-striving-for-algorithmic-fairness/) gives a good high-level introduction to the area. 
 
 
 
@@ -101,7 +100,7 @@ I have been fortunate to work with several fabulous interns over the years:
 - [Li-Yang Tan](http://theory.stanford.edu/~liyang/), Columbia University, now at Stanford University. (2014).
 - [Vatsal Sharan](https://vatsalsharan.github.io/), Stanford University, now at USC. (2017, 2020).
 - [Michael P. Kim](https://cs.stanford.edu/~mpkim/), Stanford University, currently Miller fellow at UC Berkeley (2017).
-- [Roie Levin](https://roielevin.com/), CMU, currently Fullbright postdoctoral fellow at Tel-Aviv Univeristy (2019).
+- [Roie Levin](https://roielevin.com/), CMU, currently Fulbright postdoctoral fellow at Tel-Aviv University (2019).
 - [Shivam Garg](https://cs.stanford.edu/people/shivamg/), Stanford (2021).
 - Mihir Singhal, MIT (2021).
 - [Lunjia Hu](https://sites.google.com/stanford.edu/lunjia), Stanford (2022).
