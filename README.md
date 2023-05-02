@@ -29,7 +29,7 @@ Some papers on this topic which explore connections and tradeoffs between these 
 - [Loss minimization through the lens of outcome indistinguishability](https://arxiv.org/abs/2210.08649) with Lunjia Hu, Michael P. Kim, Omer Reingold and Udi Wieder, appeared at ITCS'23.
 - [Characterizing notions of omniprediction via multicalibration](https://arxiv.org/abs/2302.06726) with Michael P. Kim and Omer Reingold. Under submission, 2023.
 
-This line of work is summarized in a talk  on [Multigroup fairness and loss minimization](https://www.youtube.com/live/9CnttO0rd0c?feature=share) given at the Simons workshop on [Multigroup fairness and the validity of statistical judgement](https://simons.berkeley.edu/workshops/multigroup-fairness-validity-statistical-judgment) in April'23. Here is a longer talk from the [IAS TCSDM seminar](https://youtu.be/fUO7Mdew8Fk) and a shorter version from the [TOC4fairness seminar](https://youtu.be/fwwNfdLCsNs). 
+This line of work is summarized in a talk  on [Multigroup fairness and loss minimization](https://www.youtube.com/live/9CnttO0rd0c?feature=share) given at the Simons workshop on [Multigroup fairness](https://simons.berkeley.edu/workshops/multigroup-fairness-validity-statistical-judgment) in April'23. Here is a longer talk from the [IAS TCSDM seminar](https://youtu.be/fUO7Mdew8Fk) and a shorter version from the [TOC4fairness seminar](https://youtu.be/fwwNfdLCsNs). 
 
 
 A paper exploring how these notions relate for Deep Neural Nets, and a [talk by Adam Kalai](https://www.youtube.com/live/WJfIOfAZu9g?feature=share):
@@ -87,7 +87,6 @@ Code is available from [GitHub](https://github.com/vmware/hillview).
 - [List-Decoding Reed-Muller codes over small fields](https://www.cs.utexas.edu/~klivans/rm.pdf) with Adam R. Klivans and David Zuckerman (STOC'08).
 - [On agnostic learning of parities, monomials and halfspaces](https://cs.nyu.edu/~khot/papers/hs-parity-monomial_SIAM.pdf) with Vitaly Feldman, Subhash Khot and Ashok Ponnuswami (FOCS'06).  
 
----
 ---
 
 ## Interns mentored: 
