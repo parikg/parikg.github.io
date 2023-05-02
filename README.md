@@ -95,7 +95,7 @@ Code is available from [GitHub](https://github.com/vmware/hillview).
 I have been fortunate to work with several fabulous interns over the years:
 - Yi Wu, Carnegie Mellon University, now at Google (2009).
 - [Raghu Meka](https://hackmd.io/@raghum/index), University of Texas at Austin, now at UCLA. (2010, 2011).
-- [Yuan Zhou](https://yuanz.web.illinois.edu/), Carnegie Mellon University, now at UIUC. (2012).
+- [Yuan Zhou](https://yuanz.web.illinois.edu/), Carnegie Mellon University, now at Tsinghua University. (2012).
 - Abhishek Bhowmick, University of Texas at Austin. (2013).
 - [Li-Yang Tan](http://theory.stanford.edu/~liyang/), Columbia University, now at Stanford University. (2014).
 - [Vatsal Sharan](https://vatsalsharan.github.io/), Stanford University, now at USC. (2017, 2020).
